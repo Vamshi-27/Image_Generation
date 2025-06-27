@@ -1,6 +1,6 @@
 # 🌟 DreamForge Studio
 
-**Where imagination meets artificial intelligence**
+**Where imagination meets Creativity**
 
 Transform your creative ideas into stunning visual art with the power of AI. DreamForge Studio is a beautiful, modern web interface for Stable Diffusion that runs seamlessly on CPU-only systems.
 
