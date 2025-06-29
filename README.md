@@ -63,7 +63,7 @@ chmod +x run.sh
 ### 🌐 Web Demo Version
 ```bash
 # Run the lightweight web demo
-python app_vercel.py
+python app.py
 ```
 
 ## 🌐 Access Your Studio
